@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <template id="assets_backend_hr_customize" name="attendance_with_motif assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/hr_attendance_state/static/src/css/my_attendance.less"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>
