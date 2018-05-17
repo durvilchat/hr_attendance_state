@@ -7,7 +7,8 @@
     "depends": ['hr_attendance'],
     "data": [
         'views/hr_attendance.xml',
-    ],
+    ], 
+    'images': ['images/1.png', 'images/2.png'],
     'qweb': ['static/src/xml/attendance.xml'],
     "installable": True,
     "auto_install": False,
