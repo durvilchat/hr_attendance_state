@@ -12,7 +12,7 @@
     'qweb': ['static/src/xml/attendance.xml'],
     "installable": True,
     "auto_install": False,
-    "price": 4,
+    "price": 8,
     "currency": "EUR",
     'license': 'AGPL-3'
 }
